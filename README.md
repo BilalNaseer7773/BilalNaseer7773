@@ -1,3 +1,4 @@
+![logo](https://github.com/BilalNaseer7773/BilalNaseer7773/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Bilal Naseer.</h1>
 <h3 align="center">A passionate Computer Science student @MUN.</h3>
 
