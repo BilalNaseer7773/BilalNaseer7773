@@ -4,11 +4,7 @@
 
 - 🔭 I’m currently working on **Web Development Project creating a Stock Trading Game.**
 
-- 🌱 I’m currently learning **Node and React.**
-
 - 🤝 I’m currently **open to work.**
-
-- 👨‍💻 All of my projects are available at [https://github.com/BilalNaseer7773](https://github.com/BilalNaseer7773)
 
 - 💬 My recent projects are mostly **private and can be showed upon request of employers.**
 
