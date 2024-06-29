@@ -2,8 +2,6 @@
 
 <h3 align="center">A passionate Computer Science student @MUN.</h3>
 
-- 🔭 I’m currently working on **Web Development Project creating a Stock Trading Game.**
-
 - 🤝 I’m currently **open to work.**
 
 - 💬 My recent projects are mostly **private and can be showed upon request of employers.**
